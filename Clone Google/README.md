@@ -1,1 +1,0 @@
-Página Clone do google usando apenas HTML5 e CSS3.
