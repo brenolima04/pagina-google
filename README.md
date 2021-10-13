@@ -38,7 +38,7 @@
 <h3 align="center"> 🚀 Demostração da página</h3>
 
 <div align="center">
-    <img  src="./Clone Google/assets/images/google-readme.jpeg" width="500" height="300" alt="">
+    <img  src="./Clone Google/assets/images/google-readme.jpeg" width="469" height="300" alt="">
 </div>
 										     
 <hr>
